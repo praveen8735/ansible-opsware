@@ -1,0 +1,2 @@
+# ansible-opsware
+Opsware Agent
